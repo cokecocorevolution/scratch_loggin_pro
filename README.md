@@ -1,2 +1,0 @@
-# scratch_loggin_pro
-scratchを自動で立ち上げます。xxxxxのところを自分のアカウントとパスワードに変更すると自動ログインします。
